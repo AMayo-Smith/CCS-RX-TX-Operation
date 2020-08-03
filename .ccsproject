@@ -5,14 +5,14 @@
 	<deviceVariant value="Cortex M.CC1310F128"/>
 	<deviceFamily value="TMS470"/>
 	<deviceEndianness value="little"/>
-	<codegenToolVersion value="18.12.5.LTS"/>
+	<codegenToolVersion value="18.12.6.LTS"/>
 	<isElfFormat value="true"/>
 	<connection value="common/targetdb/connections/TIXDS110_Connection.xml"/>
 	<rts value=""/>
 	<createSlaveProjects value=""/>
 	<ignoreDefaultDeviceSettings value="true"/>
 	<ignoreDefaultCCSSettings value="true"/>
-	<templateProperties value="id=rfEasyLinkTx_CC1310_LAUNCHXL_nortos_ccs.projectspec.rfEasyLinkTx_CC1310_LAUNCHXL_nortos_ccs,buildProfile=release,isHybrid=true"/>
-	<origin value="C:\ti\simplelink_cc13x0_sdk_3_20_00_23\examples\nortos\CC1310_LAUNCHXL\easylink\rfEasyLinkTx\ccs\rfEasyLinkTx_CC1310_LAUNCHXL_nortos_ccs.projectspec"/>
+	<templateProperties value="id=rfWakeOnRadioTx_CC1310_LAUNCHXL_nortos_ccs.projectspec.rfWakeOnRadioTx_CC1310_LAUNCHXL_nortos_ccs,buildProfile=release,isHybrid=true"/>
+	<origin value="C:\ti\simplelink_cc13x0_sdk_4_10_01_01\examples\nortos\CC1310_LAUNCHXL\drivers\rfWakeOnRadioTx\ccs\rfWakeOnRadioTx_CC1310_LAUNCHXL_nortos_ccs.projectspec"/>
 	<filesToOpen value=""/>
 </projectOptions>

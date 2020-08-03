@@ -45,8 +45,6 @@
 extern void *mainThread(void *arg0);
 
 /*
- *
- *
  *  ======== main ========
  */
 int main(void)
